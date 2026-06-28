@@ -1,0 +1,6 @@
+print("Hello, World!")
+print(6)
+print("I am a student of Computer Science and I am passionate about programming.\n")
+print("I am constantly exploring new technologies and frameworks.\n")
+print("I am, 9 years old", 9)
+print("welcome to ", end= "Python programming")
