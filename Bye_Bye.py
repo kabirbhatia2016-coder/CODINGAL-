@@ -1,0 +1,6 @@
+print("Aarav's birthday is on October 29th.")
+print("My Mom's birthday is on September 18th.")
+print("My Dad's birthday is on October 29th.")
+print("My Birthday is on October 27th.")
+birth = input("Enter your birthday (in the format MM-DD): ")
+print("Your birthday is on", birth)
